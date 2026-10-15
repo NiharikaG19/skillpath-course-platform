@@ -1,0 +1,6 @@
+Flask>=3.0,<4.0
+Flask-MySQLdb>=2.0
+mysqlclient>=2.2
+python-dotenv>=1.0
+Werkzeug>=3.0
+gunicorn
